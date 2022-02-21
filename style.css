@@ -1,0 +1,13 @@
+.main{
+    margin-top: 40px;
+    border:1px solid grey ;
+  
+}
+
+.required{
+    color:red;
+}
+.checked {
+    color: orange;
+  }
+
